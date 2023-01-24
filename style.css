@@ -1,0 +1,114 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 20px;
+    height: 300px;
+    width: 300%;
+    max-width: 300px;
+    
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    height: 300px;
+    width: 300%;
+    max-width: 300px;
+    
+
+  }
+
+/* 
+/* 
+.app {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app1{
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+}
+.app2 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+    margin-top:100px;
+}
+.app3 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app4{
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+}
+.app5 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app6 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app7{
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+}
+.app8 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app9 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app10{
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+}
+.app11 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:300px;
+    margin-top:100px;
+}
+.app12 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app13{
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+    margin-left:500px;
+}
+.app14 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+}
+.app15 {
+    height: 300px;
+    width: 100%;
+    max-width: 170px;
+} */ 
